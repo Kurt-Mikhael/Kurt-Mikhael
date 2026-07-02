@@ -41,10 +41,12 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href=""></a></li>
+<li><a target="_blank" href="https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Makalah2026/13524065_Kurt%20Mikhael%20Purba_Divide%20and%20Conquer%20Strategy%20on%20Facial%20Image%20Grid%20Segmentation%20for%20Liveness%20Detection%20Pre-Processing%20Optimization.pdf">Divide and Conquer Strategy on Facial Image Grid Segmentation for Liveness Detection Pre-Processing Optimization</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/Kurt Mikhael Purba" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/kurt_mikhael" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@kurtmikhaelpurba" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
 
 
 ![Kurt-Mikhael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Mikhael&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
