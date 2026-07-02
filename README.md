@@ -47,7 +47,4 @@
 <a target="_blank" href="https://www.youtube.com/@kurtmikhaelpurba" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
 
-
-![Kurt-Mikhael's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kurt-Mikhael&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
-
-![Kurt-Mikhael's Stats](https://github-readme-stats.vercel.app/api?username=Kurt-Mikhael&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Kurt-Mikhael&theme=dark&hide_border=true)
