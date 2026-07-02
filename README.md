@@ -40,7 +40,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href=""></a></li>
 <li><a target="_blank" href="https://informatika.stei.itb.ac.id/~rinaldi.munir/Stmik/2025-2026/Makalah2026/13524065_Kurt%20Mikhael%20Purba_Divide%20and%20Conquer%20Strategy%20on%20Facial%20Image%20Grid%20Segmentation%20for%20Liveness%20Detection%20Pre-Processing%20Optimization.pdf">Divide and Conquer Strategy on Facial Image Grid Segmentation for Liveness Detection Pre-Processing Optimization</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/Kurt Mikhael Purba" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
