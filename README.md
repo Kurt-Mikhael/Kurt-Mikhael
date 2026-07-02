@@ -46,5 +46,5 @@
 <a target="_blank" href="https://www.instagram.com/kurt_mikhael" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@kurtmikhaelpurba" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
-
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=Kurt-Mikhael&theme=dark)
 ![GitHub Stats](https://streak-stats.demolab.com?user=Kurt-Mikhael&theme=dark&hide_border=true)
